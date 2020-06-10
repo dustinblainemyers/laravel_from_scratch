@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     post wildcard route
-                    {{$posts}}
+                    {{$post->body}}
                 </div>
 
                 <div class="links">
